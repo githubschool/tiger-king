@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+No more basketball... :sob:. But there will be a HORSE tournament on Sunday :smile:
 
-![Robotocat](https://octodex.github.com/images/Robotocat.png)
+![Robotocat](https://i.ytimg.com/vi/Hq8VPYPzKHk/hqdefault.jpg)
 {: .center}
