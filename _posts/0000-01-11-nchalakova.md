@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome NC to our slide deck!"
 ---
 
 Caption here
